@@ -1,0 +1,8 @@
+com\sunlands\apolloy\config\MybatisPlusConfig.class
+com\sunlands\apolloy\controller\extension\ExtensionController.class
+com\sunlands\apolloy\controller\fileUpload\FileUploadController.class
+com\sunlands\apolloy\ApolloyWarApplication.class
+com\sunlands\apolloy\aspect\AspectOfController.class
+com\sunlands\apolloy\controller\app\AppController.class
+com\sunlands\apolloy\controller\extensionPoint\ExtensionPointController.class
+com\sunlands\apolloy\advice\ApolloyExceptionAdvice.class

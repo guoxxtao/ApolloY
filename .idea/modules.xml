@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apolloy-dao/apolloy-dao.iml" filepath="$PROJECT_DIR$/apolloy-dao/apolloy-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apolloy-domain/apolloy-domain.iml" filepath="$PROJECT_DIR$/apolloy-domain/apolloy-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apolloy-parent.iml" filepath="$PROJECT_DIR$/apolloy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apolloy-service/apolloy-service.iml" filepath="$PROJECT_DIR$/apolloy-service/apolloy-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apolloy-util/apolloy-util.iml" filepath="$PROJECT_DIR$/apolloy-util/apolloy-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apolloy-war/apolloy-war.iml" filepath="$PROJECT_DIR$/apolloy-war/apolloy-war.iml" />
+    </modules>
+  </component>
+</project>

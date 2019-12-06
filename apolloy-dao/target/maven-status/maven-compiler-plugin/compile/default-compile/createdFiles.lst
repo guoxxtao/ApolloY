@@ -1,0 +1,6 @@
+com\sunlands\apolloy\dao\extensionPoint\ExtensionPointLogDao.class
+com\sunlands\apolloy\dao\extension\ExtensionDao.class
+com\sunlands\apolloy\dao\extension\ExtensionLogDao.class
+com\sunlands\apolloy\dao\app\AppDao.class
+com\sunlands\apolloy\dao\app\AppLogDao.class
+com\sunlands\apolloy\dao\extensionPoint\ExtensionPointDao.class

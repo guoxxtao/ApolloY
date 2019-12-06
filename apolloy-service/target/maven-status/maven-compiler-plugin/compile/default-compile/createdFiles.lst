@@ -1,0 +1,9 @@
+com\sunlands\apolloy\service\upload\UploadServicelmpl.class
+com\sunlands\apolloy\service\app\AppSyncTask.class
+com\sunlands\apolloy\service\extension\ExtensionService.class
+com\sunlands\apolloy\service\extensionPoint\ExtensionPointServicelmpl.class
+com\sunlands\apolloy\service\app\AppService.class
+com\sunlands\apolloy\service\app\AppServiceImpl.class
+com\sunlands\apolloy\service\extension\ExtensionServicelmpl.class
+com\sunlands\apolloy\service\upload\UploadService.class
+com\sunlands\apolloy\service\extensionPoint\ExtensionPointService.class
