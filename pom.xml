@@ -34,7 +34,7 @@
         <aspectjrt.version>1.9.2</aspectjrt.version>
         <mybatis-plus.version>3.2.0</mybatis-plus.version>
         <aspectjweaver.version>1.9.2</aspectjweaver.version>
-        <spring-web.version>5.2.1.RELEASE</spring-web.version>
+        <spring-web.version>6.0.0</spring-web.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
         <junit-jupiter-api.version>5.5.2</junit-jupiter-api.version>
         <mybatis-plus-extension.version>3.0.5</mybatis-plus-extension.version>
